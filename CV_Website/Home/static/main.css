@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(102, 135, 127);
+}
+
+.navbar-name{
+    color: rgb(102, 135, 127);
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: rgb(49, 92, 81);
+}
+
+.navbar {
+    background-color: rgb(148, 179, 135);
+}
